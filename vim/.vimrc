@@ -1,4 +1,5 @@
 syntax on
+set enc=utf-8
 
 " nice looking stuff
 set showbreak=↪\
